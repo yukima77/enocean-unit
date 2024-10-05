@@ -14,8 +14,9 @@
 ボーレート57600baudでシリアル通信が出来ます。
 
 ## サンプルソース
-こちらを参考にしてください。
+こちらを参考にしてください。<br>
 https://github.com/yukima77/EnOceanModule/
+<br>
 
 ## 写真
 ![](https://github.com/yukima77/enocean-unit/blob/images/001.jpg)
