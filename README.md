@@ -13,6 +13,10 @@
 ## 使い方
 ボーレート57600baudでシリアル通信が出来ます。
 
+## サンプルソース
+こちらを参考にしてください。
+https://github.com/yukima77/EnOceanModule/
+
 ## 写真
 ![](https://github.com/yukima77/enocean-unit/blob/images/001.jpg)
 ![](https://github.com/yukima77/enocean-unit/blob/images/002.jpg)
