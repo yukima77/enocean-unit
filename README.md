@@ -6,7 +6,7 @@ Grove互換コネクタ(HY2.0-4Pインターフェイス)に接続可能なEnOce
 ![](https://github.com/yukima77/enocean-unit/blob/images/001.jpg)
 
 ## 特徴
-* Grove互換コネクタ(HY2.0-4Pインターフェイス)に対応<br>
+* Grove互換コネクタ(HY2.0-4Pインターフェイス)に対応
 * EnOcean送受信モジュール TCM410Jを搭載
 * プラスチックケース付き
 * ホイップアンテナ実装済み
